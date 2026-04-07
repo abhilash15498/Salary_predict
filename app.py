@@ -214,7 +214,7 @@ if st.button("💰 Predict My Salary"):
 st.markdown("""
 <hr style="border-color: rgba(255,255,255,0.1); margin-top:3rem;">
 <p style="text-align:center; color:#6b8fa3; font-size:0.8rem;">
-    Built with ❤️ using Streamlit &amp; scikit-learn &nbsp;|&nbsp;
+    Built with 🔥⚡ using Streamlit &amp; scikit-learn &nbsp;|&nbsp;
     Linear Regression · India IT Market · Synthetic training data
 </p>
 """, unsafe_allow_html=True)
